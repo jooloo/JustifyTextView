@@ -1,2 +1,2 @@
-# AlignTextView
+# JustifyTextView
 Justify Align TextView
