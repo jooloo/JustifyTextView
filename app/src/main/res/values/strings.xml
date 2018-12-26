@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JustifyTextView</string>
+    <string name="christmas_carol">A Christmas Carol is a novella by Charles Dickens, illustrated by John Leech. It recounts the story of Ebenezer Scrooge,
+        an elderly mister who is visited by the ghost of his former business partner Jacob Marley and the spirits of Christmas Past, Present and Yet to Come.
+    After their visits, Scrooge is transformed into a kinder, gentler man. Dickens wrote the story during a period when the British were Exploring and re-evaluating
+    past Christmas traditions, including carols, and newer customs such as Christmas trees.</string>
+    <string name="text_view">TextView</string>
+    <string name="justify_text_view">JustifyTextView</string>
+</resources>
